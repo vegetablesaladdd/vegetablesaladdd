@@ -1,15 +1,14 @@
-# Hello! I'm Tanya  :EMOJICODE::seedling:
+# Hello! I'm Tanya  :seedling:
 [![Header](https://github.com/vegetablesaladdd/vegetablesaladdd/blob/main/assets/fb12dd7f542f22d146fa095b665fa8ad.gif)]
-<<<<<<< HEAD
 
-</div>
-### :EMOJICODE::technologist: Обо мне:
-Я - manual QA специалист. 
+
+### :technologist: Обо мне:
+Я - manual QA специалист. &nbsp
 
 📫 Как связаться со мной:
--[ссылка на тг](https://ссылочку_сюда)
--[ссылка на линк](https://ссылочку_сюда)
--[почта](https://ссылочку_сюда)
+-[ссылка на тг](https://ссылочку_сюда)&nbsp
+-[ссылка на линк](https://ссылочку_сюда)&nbsp
+-[почта](https://ссылочку_сюда)&nbsp
 
 ## My CV 
 
