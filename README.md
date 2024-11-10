@@ -1,5 +1,6 @@
 # Hello! I'm Tanya  :EMOJICODE::seedling:
 [![Header](https://github.com/vegetablesaladdd/vegetablesaladdd/blob/main/assets/fb12dd7f542f22d146fa095b665fa8ad.gif)]
+<<<<<<< HEAD
 
 </div>
 ### :EMOJICODE::technologist: Обо мне:
@@ -60,3 +61,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png" title="grafana" alt="grafana" width="40" height="40"/>&nbsp
 
 <div>
+=======
+>>>>>>> 4c4c890f200d5511bd2256b8a8d11dc7e2db7f16
